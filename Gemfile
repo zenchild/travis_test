@@ -39,4 +39,7 @@ gem 'jquery-rails'
 
 group :test do
   gem 'rake'
+  gem 'capybara'
+  gem 'selenium'
+  gem 'database_cleaner'
 end
